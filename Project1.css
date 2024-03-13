@@ -13,7 +13,7 @@ body {
 
 
 h1 {
-    color: #007bff; 
+    color: #004FA3; 
     text-align: center;
     margin-top: 30px;
     font-size: 50px;
@@ -106,7 +106,7 @@ form input[type="submit"] {
 .learn-more-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #004FA3; /* changed color for accessability*/ 
     color: white;
     text-decoration: none;
     border-radius: 5px;
